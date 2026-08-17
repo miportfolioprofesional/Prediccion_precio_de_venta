@@ -1,8 +1,6 @@
 # Vehicle Price Prediction 🚗💰
 
-Welcome to the **Vehicle Sale Price Prediction** app, a tool developed to help estimate the sale price of a vehicle based on several key factors. The app is developed with [Streamlit]
-
-(https://streamlit.io/) and it's hosted on [Streamlit Cloud](https://streamlit.io/cloud), allowing easy and direct access from any browser.
+Welcome to the **Vehicle Sale Price Prediction** app, a tool developed to help estimate the sale price of a vehicle based on several key factors. The app is developed with (https://streamlit.io/) and it's hosted on [Streamlit Cloud](https://streamlit.io/cloud), allowing easy and direct access from any browser.
 
 ## About Data 📊
 
