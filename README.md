@@ -1,33 +1,34 @@
-# Predicción del Precio de Vehículos 🚗💰
+# Vehicle Price Prediction 🚗💰
 
-Bienvenidos a la aplicación de **Predicción del Precio de Venta de Vehículos**, una herramienta desarrollada para ayudar a estimar el precio de venta de un vehículo en función de varios factores clave. La aplicación está desarrollada con [Streamlit](https://streamlit.io/) y está alojada en [Streamlit Cloud](https://streamlit.io/cloud), permitiendo acceso fácil y directo desde cualquier navegador.
+Welcome to the **Vehicle Sale Price Prediction** app, a tool developed to help estimate the sale price of a vehicle based on several key factors. The app is developed with [Streamlit]
+(https://streamlit.io/)and it's hosted on [Streamlit Cloud](https://streamlit.io/cloud), allowing easy and direct access from any browser.
 
-## Acerca de los Datos 📊
+## About Data 📊
 
-Los datos utilizados para entrenar el modelo provienen de un conjunto de datos de vehículos extraido desde Kaggle, que incluye información como el año, marca, modelo, estado, kilometraje, color, y otras características relevantes que impactan en el precio de venta. Estos datos fueron procesados y limpiados antes de entrenar el modelo de regresión lineal para asegurar predicciones confiables.
+The data used to train the model comes from a vehicle dataset taken from Kaggle, which includes information like year, make, model, condition, mileage, color, and other relevant features that affect the sale price. This data was processed and cleaned before training the linear regression model to ensure reliable predictions.
 
-## Funcionamiento de la Aplicación 🚀
+## How the App Works 🚀
 
-La aplicación permite al usuario ingresar las características de un vehículo, tales como:
-   
-- Año del modelo
-- Marca y modelo
-- Estado y kilometraje
-- Color exterior e interior
-- Y otros atributos específicos del vehículo
+The app lets the user enter the features of a vehicle, such as:
 
-Una vez que el usuario completa estos datos, la aplicación utiliza un modelo de **Regresión Lineal** para predecir el precio de venta. Además, se han empleado técnicas de codificación de variables categóricas para mejorar la precisión de las predicciones.
+- Model year
+- Make and model
+- Condition and mileage
+- Exterior and interior color
+- And other specific vehicle attributes
 
-## Cómo utilizar la aplicación 🖥️
+Once the user fills in this information, the app uses a **Linear Regression** model to predict the sale price. Additionally, techniques for encoding categorical variables have been used to improve the accuracy of the predictions.
 
-1. Visita la aplicación en [este enlace](https://prediccionpreciodeventa-banahbfw2dvjwzj6ruylzk.streamlit.app/).
-2. Completa la información requerida del vehículo.
-3. Haz clic en el botón de predicción y obtén una estimación inmediata del precio de venta.
+## How to use the app 🖥️
 
-Es una herramienta intuitiva y fácil de usar, pensada para concesionarias, vendedores, compradores, y cualquier persona interesada en tener una idea aproximada del valor de mercado de un vehículo.
+1. Visit the app at [this link](https://prediccionpreciodeventa-banahbfw2dvjwzj6ruylzk.streamlit.app/).
+2. Fill in the required vehicle information.
+3. Click the prediction button and get an immediate estimate of the sale price.
 
-## Conéctate conmigo 📬
+It's an intuitive and easy-to-use tool, designed for dealerships, sellers, buyers, and anyone interested in having an approximate idea of a vehicle's market value.
 
-Soy un **Data Scientist** con experiencia en desarrollo de modelos de machine learning, análisis de datos y creación de soluciones personalizadas. Si necesitas ayuda con proyectos de ciencia de datos o tienes alguna consulta sobre la aplicación, no dudes en **conectarte conmigo**. 
+## Connect with me 📬
 
-👉 ¡Estoy disponible para colaborar en proyectos interesantes y aportar soluciones efectivas basadas en datos!
+I am a **Data Scientist** with experience in developing machine learning models, data analysis, and creating custom solutions. If you need help with data science projects or have any questions about the app, don't hesitate to **connect with me**.
+
+👉 I'm available to collaborate on exciting projects and provide effective data-driven solutions!
